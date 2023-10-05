@@ -1,0 +1,3 @@
+2023-06-07 10:53:35 - Intro to ruby (Amount: 2000)
+2023-06-07 10:53:50 - hello all (Amount: 90)
+2023-06-07 11:09:09 - welcome (Amount: 2000)
